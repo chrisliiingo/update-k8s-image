@@ -1,6 +1,6 @@
 {
   "name": "update-k8s-image",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "",
   "main": "lib/main.js",
   "scripts": {
@@ -12,17 +12,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Charlyzzz/update-k8s-image.git"
+    "url": "git+https://github.com/chrisliiingo/update-k8s-image.git"
   },
   "keywords": [],
   "author": "Erwin Debusschere <erwincdl@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Charlyzzz/update-k8s-image/issues"
+    "url": "https://github.com/chrisliiingo/update-k8s-image/issues"
   },
-  "homepage": "https://github.com/Charlyzzz/update-k8s-image#readme",
+  "homepage": "https://github.com/chrisliiingo/update-k8s-image#readme",
   "dependencies": {
-    "@actions/core": "^1.2.6",
+    "@actions/core": "^1.10.0",
     "js-yaml": "^4.0.0"
   },
   "devDependencies": {
