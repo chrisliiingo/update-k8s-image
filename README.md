@@ -1,3 +1,7 @@
+# Stolen from Charlyzzz/update-k8s-image
+
+I take full credit for the theft of this software
+
 # update-k8s-image action
 
 This action updates a container image tag in a Kubernetes deployment file.
